@@ -1,0 +1,14 @@
+**/*.log
+**/*.logs
+**/docker
+**/database
+
+node_modules
+npm-debug.log
+docker_build.sh
+env.local
+env.prod
+env.uat
+.git
+.cache
+package-lock.json
